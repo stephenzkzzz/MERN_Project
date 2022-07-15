@@ -1,2 +1,2 @@
 # MERN_Project
-This is a Full stack MERN project
+Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN)
